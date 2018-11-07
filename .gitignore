@@ -9,3 +9,4 @@ obj/
 Gemfile.lock
 _site/
 app/src/main/gen/
+app/google-services.json
